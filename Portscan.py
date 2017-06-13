@@ -1,3 +1,4 @@
+#este script foi desenvolvido com o intuido de estudo bons estudos a todos
 import socket
 ip = raw_input('digite o ip que desejado: ')
 port = input('digite a porta desejada: ')
